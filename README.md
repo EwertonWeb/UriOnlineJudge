@@ -7,7 +7,7 @@ O URI Online Judge contém mais de 1000 problemas divididos em 9 grandes categor
 
 Esta divisão ajuda os usuários a focar em temas específicos:
 
-
+[Meu Perfil](https://tinyurl.com/svhd7vn)
 
 **Categorias** :
 
@@ -72,8 +72,6 @@ Esta divisão ajuda os usuários a focar em temas específicos:
             
 
 
-
-[Meu perfil] : (https://www.urionlinejudge.com.br/judge/pt/profile/262435)
 
 
 
